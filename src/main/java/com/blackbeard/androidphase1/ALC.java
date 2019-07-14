@@ -24,7 +24,7 @@ public class ALC extends AppCompatActivity {
                 handler.proceed();
             }
         });
-        webView.loadUrl("https://andela.com/about/");
+        webView.loadUrl("https://andela.com/alc/");
 
         WebSettings webSettings = webView.getSettings();
         webSettings.setJavaScriptEnabled(true);
