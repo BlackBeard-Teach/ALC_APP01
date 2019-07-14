@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ALC</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_view_title">My Profile</string>
+    <string name="alc_about_title">Andela About page</string>
+    <string name="dev_name">Keamogetswe Mfoloe</string>
+    <string name="learning_track">Android Learning Track</string>
+    <string name="dev_country">South Africa</string>
+    <string name="dev_phone_number">+27&#8211;71&#8211;020&#8211;9144</string>
+    <string name="phone">Phone Number:</string>
+    <string name="email_address">keamogetswemfoloe@gmail.com</string>
+    <string name="email">E-mail:</string>
+    <string name="track">Learning Track:</string>
+    <string name="info">Info</string>
+    <string name="profile">My Profile</string>
+    <string name="Learning">ALC 4.0 Phase 01</string>
+    <string name="LEARN">Welcome to ALC 4.0</string>
+    <string name="slack_user">Keamogetswe</string>
+    <string name="user">Slack:</string>
+
+</resources>
