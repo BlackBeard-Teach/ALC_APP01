@@ -28,6 +28,6 @@ public class ALC extends AppCompatActivity {
 
         WebSettings webSettings = webView.getSettings();
         webSettings.setJavaScriptEnabled(true);
-
     }
+    getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 }
